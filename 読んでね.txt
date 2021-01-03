@@ -1,0 +1,7 @@
+※使い方※
+
+chsh -s /bin/bash 
+↑Bash shellに戻す(する)コマンド
+
+↑をやった後は、kali-2019.2_bashrcに入っている.bashrcをkali linuxのホームフォルダに入れます。
+その時、上書きでしても構いません。その後は再起動です。
